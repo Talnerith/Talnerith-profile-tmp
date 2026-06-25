@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Bayani Hintay 👋</h1>
 
 <p align="center">
-  <strong>Software Engineer</strong> — I build full-stack web apps, practical developer tooling, and AI-powered products end to end.
+  <strong>Self-taught developer</strong> — I build full-stack web apps, practical developer tooling, and AI-powered products end to end.
 </p>
 
 <p align="center">
